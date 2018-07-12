@@ -1,4 +1,4 @@
-# EPI Judge
+# EPI Judge Self Study
 
 ## Introduction
 
